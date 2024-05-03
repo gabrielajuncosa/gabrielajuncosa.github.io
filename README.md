@@ -7,6 +7,12 @@ I aim to continue leveraging the complementarity of empirical and experimental m
 
 <a href="Slides/GJuncosaPhdCV.pdf">Curriculum Vitae</a>
 
+# Talks 
+
+- DNDS 2023. *Exploring the Impact of Online Collaborative Environments on the Willingness to Express Opinions: A Spiral of Silence Perspective* <a href="Slides/ConnectionsGame.pdf">(Slides)</a> <br>
+- NetSci-X 2024. *Toxicity in online political deliberation: YouTube during the 2020 US presidential elections* <a href="Slides/NetSciX_Jan2024.pdf">(Slides)</a> <br>
+- COMPLENET 2024. *Harnessing collective wisdom for effective content moderation* <a href="Slides/BirdwatchExperimentAnalysis.pdf">(Slides)</a> <br>
+
 # Research Projects
 
 ### Toxicity in online political deliberation: YouTube during the 2020 US presidential elections (*In preparation*)
@@ -24,12 +30,3 @@ misleading political content. These results underscore the importance of underst
 Juncosa, G., Sánchez, A., Koltai, J., Yasseri, T., Iniguez, G.
 
 This research delves into the intricate relationship between human interaction and the processes of opinion formation and expression. While opinion dynamic models typically focus on interactions among individuals with differing viewpoints as drivers of opinion change, they often overlook how these interactions can influence behavior without necessarily altering core beliefs. Understanding how individuals respond to feedback and how their choices impact others' behavior is increasingly vital as more people globally engage with political content online. This study investigates how our inherent need for connection influences our decisions to share opinions on contentious topics in online discussions. To address this issue, we propose an online experiment to investigate whether collaborative online environments exacerbate individuals' fear of isolation, thereby lowering willingness to express their true opinions publicly. In our experiment, participants used an online interface to provide opinions on controversial topics, with the option to share or conceal their views with their connections. Participants were incentivised to form connections and faced penalties if others disconnected from them or rejected their attempts to connect. While our analysis is still underway, preliminary findings moderately support our hypothesis that individuals conceal their opinions in response to negative feedback. 
-
-# Talks 
-
-- DNDS 2023. *Exploring the Impact of Online Collaborative Environments on the Willingness to Express Opinions: A Spiral of Silence Perspective* <a href="Slides/ConnectionsGame.pdf">(Slides)</a> <br>
-- NetSci-X 2024. *Toxicity in online political deliberation: YouTube during the 2020 US presidential elections* <a href="Slides/NetSciX_Jan2024.pdf">(Slides)</a> <br>
-- COMPLENET 2024. *Harnessing collective wisdom for effective content moderation* <a href="Slides/BirdwatchExperimentAnalysis.pdf">(Slides)</a> <br>
-
-
-
