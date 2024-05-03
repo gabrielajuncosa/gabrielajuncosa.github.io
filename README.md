@@ -27,6 +27,9 @@ This research delves into the intricate relationship between human interaction a
 
 # Talks 
 
-- NetSci-X 2024. *Reconstruction performance of the stochastic block model (SBM) in empirical networks.* <a>(slides)</a> <br>
+- DNDS 2023. *Exploring the Impact of Online Collaborative Environments on the Willingness to Express Opinions: A Spiral of Silence Perspective* <a href="Slides/ConnectionsGame.pdf">(Slides)</a> <br>
+- NetSci-X 2024. *Toxicity in online political deliberation: YouTube during the 2020 US presidential elections* <a href="Slides/ConnectionsGame.pdf">(Slides)</a> <br>
+- COMPLENET 2024. *Harnessing collective wisdom for effective content moderation* <a href="Slides/BirdwatchExperimentAnalysis.pdf">(Slides)</a> <br>
+
 
 
