@@ -7,7 +7,14 @@ I aim to continue leveraging the complementarity of empirical and experimental m
 
 # Research Projects
 
-### Toxicity in online political deliberation: YouTube during the 2020 US presidential elections (In preparation)
+#### Toxicity in online political deliberation: YouTube during the 2020 US presidential elections (*In preparation*)
+Juncosa, G., Yasseri, T., Koltai, J., Iniguez, G.
+
+#### Teams work better at evaluating and annotating misleading political content (*In preparation*)
+Juncosa, G., Mohammadi, S., Samahita, M., Yasseri, T.
+
+#### Exploring the Impact of Online Collaborative Environments on the Willingness to Express Opinions: A Spiral of Silence Perspective (*In preparation*)
+Juncosa, G., Sánchez, A., Koltai, J., Yasseri, T., Iniguez, G.
 
 
 # Talks 
