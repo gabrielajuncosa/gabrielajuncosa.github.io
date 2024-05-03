@@ -5,4 +5,4 @@ I am a **Digital Behaviour Researcher** interested in how Data Science and Netwo
 
 My doctoral dissertation explores the **dynamics of online behaviour**, focusing on how individuals navigate online social environments and enact their online behaviours. I'm interested in how our biases affect what we say and how they can make us hold back. Specifically, I'm looking at online contexts where people feel pressured to stay quiet and how these individual decisions interact to distort our understanding of what's popular online. To tackle this, I use a mix of research approches, combining **empirical and experimental methods**.
 
-I'm dedicated to carrying on with my research to study sociocultural phenomena in the digital world, while simultaneously producing research that is socially relevant, open and reproducible. 
+In my future research, I aim to keep leveraging the complementarity of empirical and experimental methods to understanding digital behaviour better, while simultaneously producing research that is socially relevant, open and reproducible. 
