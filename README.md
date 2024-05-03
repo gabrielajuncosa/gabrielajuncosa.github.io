@@ -7,7 +7,7 @@ I aim to continue leveraging the complementarity of empirical and experimental m
 
 # Research Projects
 
-## Toxicity in online political deliberation: YouTube during the 2020 US presidential elections (In preparation)
+### Toxicity in online political deliberation: YouTube during the 2020 US presidential elections (In preparation)
 
 
 # Talks 
