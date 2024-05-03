@@ -7,13 +7,14 @@ I aim to continue leveraging the complementarity of empirical and experimental m
 
 # Research Projects
 
-#### Toxicity in online political deliberation: YouTube during the 2020 US presidential elections (*In preparation*)
+### Toxicity in online political deliberation: YouTube during the 2020 US presidential elections (*In preparation*)
 Juncosa, G., Yasseri, T., Koltai, J., Iniguez, G.
+Understanding how individuals respond to social influence is crucial for studying political collective behavior. While many opinion dynamics models focus on opinion feedback, they often overlook the potential for feedback to result in self-censorship. In this study, we investigate online political deliberation through the lens of the Spiral of Silence theory, which suggests that individuals may refrain from expressing minority opinions in public settings due to fear of isolation. Analyzing conversations in YouTube videos from six prominent US news outlets before and after the 2020 U.S. presidential elections, we aim to observe patterns of self-censorship and the influence of peer toxicity on users' behaviour. Using Hidden Markov models, we identified a latent state that aligns with the Spiral of Silence theory. This state is characterised by reduced user activity and higher likelihood of posting toxic content, indicating an environment where extreme behaviours thrive. These findings offer insights into the complexities of online political deliberation and emphasise the importance of considering self-censorship dynamics in understanding digital discourse.
 
-#### Teams work better at evaluating and annotating misleading political content (*In preparation*)
+### Teams work better at evaluating and annotating misleading political content (*In preparation*)
 Juncosa, G., Mohammadi, S., Samahita, M., Yasseri, T.
 
-#### Exploring the Impact of Online Collaborative Environments on the Willingness to Express Opinions: A Spiral of Silence Perspective (*In preparation*)
+### Exploring the Impact of Online Collaborative Environments on the Willingness to Express Opinions: A Spiral of Silence Perspective (*In preparation*)
 Juncosa, G., Sánchez, A., Koltai, J., Yasseri, T., Iniguez, G.
 
 
