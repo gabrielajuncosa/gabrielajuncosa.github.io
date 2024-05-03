@@ -27,5 +27,6 @@ This research delves into the intricate relationship between human interaction a
 
 # Talks 
 
+- NetSci-X 2024. *Reconstruction performance of the stochastic block model (SBM) in empirical networks.* <a>(slides)</a> <br>
 
 
